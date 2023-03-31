@@ -1,0 +1,102 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Gallo",
+      "email": "galo@galo.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Indiano",
+      "email": "indiano@val.com",
+      "senha": "654321"
+    },
+    {
+      "id": 3,
+      "nome": "Carneiro",
+      "email": "carneiro@carneiro.com",
+      "senha": "987654321"
+    },
+    {
+      "id": 4
+    },
+    {
+      "nome": "Rose",
+      "e-mail": "rose@rose",
+      "senha": "ciscopt",
+      "id": 5
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "id_cliente": 1,
+      "data_pedido": "2023-03-31",
+      "total": 124.24
+    },
+    {
+      "id": 2,
+      "id_cliente": 3,
+      "data_pedido": "2023-03-31",
+      "total": 324.24
+    }
+  ],
+  "itens-pedido": [
+    {
+      "id_pedido": 1,
+      "id_produto": 1,
+      "preco_unitario": 12.12,
+      "quantidade": 2,
+      "preco_total": 24.24
+    },
+    {
+      "id_pedido": 1,
+      "id_produto": 3,
+      "preco_unitario": 50,
+      "quantidade": 2,
+      "preco_total": 100
+    },
+    {
+      "id_pedido": 2,
+      "id_produto": 2,
+      "preco_unitario": 200,
+      "quantidade": 1,
+      "preco_total": 200
+    },
+    {
+      "id_pedido": 2,
+      "id_produto": 3,
+      "preco_unitario": 50,
+      "quantidade": 2,
+      "preco_total": 100
+    },
+    {
+      "id_pedido": 2,
+      "id_produto": 1,
+      "preco_unitario": 12.12,
+      "quantidade": 2,
+      "preco_total": 24.24
+    }
+  ],
+  "produto": [
+    {
+      "nome": "X-Bacon",
+      "descricao": "Hambúrguer de carne, Muçarela, Bacon, Batata palha, Maionese, Molho especial, Milho verde, Alface, Tomate",
+      "preco": 25,
+      "nome_imagem": "xbacon.jpg"
+    },
+    {
+      "nome": "Pizza de Lombo com Catupiry",
+      "descricao": "É preparada com o lombo Seara defumado naturalmente. Essa combinação fica ainda mais saborosa com a cobertura de Catupiry e queijo mussarela.",
+      "preco": 40,
+      "nome_imagem": "pizza.jpg"
+    },
+    {
+      "nome": "Picanha",
+      "descricao": "A famosa Picanha é um tipo de corte de carne bovina tipicamente brasileira",
+      "preco": 13.13,
+      "nome_imagem": "picanha.jpg"
+    }
+  ]
+}
