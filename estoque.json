@@ -23,6 +23,18 @@
       "email": "rose@rose",
       "senha": "ciscopt",
       "id": 4
+    },
+    {
+      "nome": "adr",
+      "email": "adr@adr.com",
+      "senha": "123",
+      "id": 27
+    },
+    {
+      "nome": "Cleiton",
+      "email": "cleiton@gmail.com",
+      "senha": "12",
+      "id": 28
     }
   ],
   "pedidos": [
