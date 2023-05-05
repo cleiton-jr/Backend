@@ -25,16 +25,28 @@
       "id": 4
     },
     {
-      "nome": "adr",
+      "id": 27,
+      "nome": "adrianh",
       "email": "adr@adr.com",
-      "senha": "123",
-      "id": 27
+      "senha": ""
     },
     {
       "nome": "Cleiton",
       "email": "cleiton@gmail.com",
       "senha": "12",
       "id": 28
+    },
+    {
+      "nome": "Gallo",
+      "email": "galo@galo.com",
+      "senha": "",
+      "id": 29
+    },
+    {
+      "nome": "Gallo",
+      "email": "galo@galin.com",
+      "senha": "",
+      "id": 30
     }
   ],
   "pedidos": [
