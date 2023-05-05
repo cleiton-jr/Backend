@@ -2,9 +2,9 @@
   "clientes": [
     {
       "id": 1,
-      "nome": "Gallo",
+      "nome": "Va",
       "email": "galo@galo.com",
-      "senha": "123456"
+      "senha": ""
     },
     {
       "id": 2,
